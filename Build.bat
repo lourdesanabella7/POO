@@ -1,0 +1,1 @@
+g++ main.cpp articulo.cpp cliente.cpp empleado.cpp pedido.cpp

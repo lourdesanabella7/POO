@@ -1,0 +1,75 @@
+# depslib dependency file v1.0
+1729118600 source:c:\workspace\tp3lourdes\cliente.cpp
+	"Cliente.h"
+	<iostream>
+
+1729118502 c:\workspace\tp3lourdes\cliente.h
+	<string>
+	<iostream>
+
+1730498759 source:c:\workspace\tp3lourdes\main.cpp
+	<iostream>
+	"Cliente.h"
+	"Empleado.h"
+	"Articulo.h"
+	"Pedido.h"
+
+1729120881 source:c:\workspace\tp3lourdes\articulo.cpp
+	"Articulo.h"
+	<iostream>
+
+1729120892 c:\workspace\tp3lourdes\articulo.h
+	<string>
+
+1729125939 source:c:\workspace\tp3lourdes\pedido.cpp
+	"Pedido.h"
+
+1730498033 c:\workspace\tp3lourdes\pedido.h
+	<iostream>
+	"Cliente.h"
+	"Empleado.h"
+	"Articulo.h"
+
+1730422344 source:c:\workspace\tp3lourdes\empleado.cpp
+	"Empleado.h"
+
+1730422376 c:\workspace\tp3lourdes\empleado.h
+	<string>
+
+1730606845 source:c:\users\lourdes anabella\onedrive\escritorio\herramientas\carpetas de documentos\mis trabajos\tp-lourdespedidoscodigos\articulo.cpp
+	"Articulo.h"
+	<iostream>
+
+1730606845 c:\users\lourdes anabella\onedrive\escritorio\herramientas\carpetas de documentos\mis trabajos\tp-lourdespedidoscodigos\articulo.h
+	<string>
+
+1730606844 source:c:\users\lourdes anabella\onedrive\escritorio\herramientas\carpetas de documentos\mis trabajos\tp-lourdespedidoscodigos\cliente.cpp
+	"Cliente.h"
+	<iostream>
+
+1730606845 c:\users\lourdes anabella\onedrive\escritorio\herramientas\carpetas de documentos\mis trabajos\tp-lourdespedidoscodigos\cliente.h
+	<string>
+	<iostream>
+
+1730606845 source:c:\users\lourdes anabella\onedrive\escritorio\herramientas\carpetas de documentos\mis trabajos\tp-lourdespedidoscodigos\empleado.cpp
+	"Empleado.h"
+
+1730606845 c:\users\lourdes anabella\onedrive\escritorio\herramientas\carpetas de documentos\mis trabajos\tp-lourdespedidoscodigos\empleado.h
+	<string>
+
+1730606845 source:c:\users\lourdes anabella\onedrive\escritorio\herramientas\carpetas de documentos\mis trabajos\tp-lourdespedidoscodigos\main.cpp
+	<iostream>
+	"Cliente.h"
+	"Empleado.h"
+	"Articulo.h"
+	"Pedido.h"
+
+1730606844 c:\users\lourdes anabella\onedrive\escritorio\herramientas\carpetas de documentos\mis trabajos\tp-lourdespedidoscodigos\pedido.h
+	<iostream>
+	"Cliente.h"
+	"Empleado.h"
+	"Articulo.h"
+
+1730606844 source:c:\users\lourdes anabella\onedrive\escritorio\herramientas\carpetas de documentos\mis trabajos\tp-lourdespedidoscodigos\pedido.cpp
+	"Pedido.h"
+
